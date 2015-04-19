@@ -1,1 +1,1 @@
-web: rq-dashboard --redis_url=$REDIS_URL
+web: rq-dashboard --redis_url $REDIS_URL
