@@ -8,7 +8,7 @@ itsdangerous==0.24
 python-dateutil==2.4.2
 redis==2.10.3
 rq==0.5.4
--e git+https://github.com/nvie/rq-dashboard@aaf0e92de9430c4494bb26eab7da18090a7825f5#egg=rq-dashboard-master
+rq-dashboard==0.3.6
 simplejson==3.8.0
 six==1.9.0
 times==0.7
